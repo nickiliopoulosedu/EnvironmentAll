@@ -6,4 +6,14 @@
 ######      2. RoboΚλίμUS.zip.002
 ######      3. RoboΚλίμUS.zip.003
 ######   ● Αφού έχετε κατεβάσει την έδοση του 7zip κατάλληλη για τον υπολογιστή σας απο το https://www.7-zip.org/download.html κάντε δεξί κλίκ --> 7zip --> Extract Here
-######   ● Tο βίντεο τν 17" θα εμφανιστεί 
+######   ● Tο βίντεο των 17" θα εμφανιστεί 
+
+# Environment-ALL
+We are Environment-All students in the 1st grade of Saint Demetrios High School, Christina, Vassilis, Elias, Nikolas and our teacher Katerina Asimakopoulou. We decided to participate because the combination of open technologies and Climate Change (as a thematic) not only interests us, but causes us to help solve the problem as much as we can.
+Follow the instructions below to view the 3D representation:
+######   ● Select the files
+######      1. RoboKlimUS.zip.001
+######      2. RoboKlimUS.zip.002
+######      3. RoboKlimUS.zip.003
+######   ● After downloading the 7zip version suitable for your computer from https://www.7-zip.org/download.html right click -> 7zip -> Extract Here
+######   ●The 17" video will be displayed

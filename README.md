@@ -23,7 +23,7 @@ These are Images of the Wiring:
 
 # Code
 
-For this project we are using Python 3, you can download and the latest version [here][pyDownload]. Be sure to click "ad Python to PATH" while installing.
+For this project we are using Python 3, you can download and the latest version [here][pyDownload]. Be sure to click "add Python to PATH" while installing.
 
 After downloading and install it is time to install the required libraries. So navigate to EnvironmentAll folder, click the address bar and delete everything, write "cmd"
 and a new black window will appear.
@@ -38,8 +38,8 @@ This should install all required libraries for this project. If an error appears
 # Bonus
 
 ### Links
-- [3D Robot Preview 1.0 (newest version)][3Dprev]
-- [3D Robot Preview (older versions)]
+- [3D Robot Preview 1.1 (newest version)][3DprevLatest]
+- [3D Robot Preview (older versions)][3DprevOlder]
 
 ### Communication
   | Name | Team Position | Email |
@@ -50,5 +50,6 @@ This should install all required libraries for this project. If an error appears
   | Keramaris Vasilios | Team Member | - |
   | Tournari Christina | Team Member | xristinatournari@gmail.com |
 
-[3Dprev]: <https://youtu.be/QUXGDTw46SM>
+[3DprevLatest]: <https://www.youtube.com/watch?v=U1EAlejeVzY>
+[3DprevOlder]: <https://www.youtube.com/playlist?list=PL0-nYuvdRR38VOx6JxywApDNGzup6OFcI>
 [pyDownload]: <https://www.python.org/downloads>

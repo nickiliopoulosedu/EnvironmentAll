@@ -21,6 +21,20 @@ These are Images of the Wiring:
 <img src="/Images/Project_anim.jpg" alt="Animated" width="600"/>
 <img src="/Images/Project_schem.jpg" alt="Schematic" width="600"/>
 
+# Code
+
+For this project we are using Python 3, you can download and the latest version [here][pyDownload]. Be sure to click "ad Python to PATH" while installing.
+
+After downloading and install it is time to install the required libraries. So navigate to EnvironmentAll folder, click the address bar and delete everything, write "cmd"
+and a new black window will appear.
+
+In that window type:
+```
+pip install -r requirements.txt
+```
+
+This should install all required libraries for this project. If an error appears ask for help online.
+
 # Bonus
 
 ### Links
@@ -37,3 +51,4 @@ These are Images of the Wiring:
   | Tournari Christina | Team Member | xristinatournari@gmail.com |
 
 [3Dprev]: <https://youtu.be/QUXGDTw46SM>
+[pyDownload]: <https://www.python.org/downloads>

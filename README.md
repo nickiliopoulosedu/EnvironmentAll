@@ -18,8 +18,8 @@ After each measurement, the data are sent via Bluetooth to a remote computer. Th
 
 These are Images of the Wiring:
 
-<img src="Project_anim.jpg" alt="Animated" width="600"/>
-<img src="Project_schem.jpg" alt="Schematic" width="600"/>
+<img src="/Images/Project_anim.jpg" alt="Animated" width="600"/>
+<img src="/Images/Project_schem.jpg" alt="Schematic" width="600"/>
 
 # Bonus
 

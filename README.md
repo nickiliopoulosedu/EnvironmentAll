@@ -35,6 +35,10 @@ pip install -r requirements.txt
 
 This should install all required libraries for this project. If an error appears ask for help online.
 
+Now just click [Data_Com.py][Data_Com_File]
+
+For more info on how to use the program visit the [Bonus Section](#Bonus)
+
 # Bonus
 
 ### Links
@@ -53,3 +57,4 @@ This should install all required libraries for this project. If an error appears
 [3DprevLatest]: <https://www.youtube.com/watch?v=U1EAlejeVzY>
 [3DprevOlder]: <https://www.youtube.com/playlist?list=PL0-nYuvdRR38VOx6JxywApDNGzup6OFcI>
 [pyDownload]: <https://www.python.org/downloads>
+[Data_Com_File]: <https://github.com/nickiliopoulosedu/EnvironmentAll/blob/master/Data_Com.py>

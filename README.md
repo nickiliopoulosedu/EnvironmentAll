@@ -17,8 +17,9 @@ The RoboKlimUs is capable of taking measurements through specific sensors availa
 After each measurement, the data are sent via Bluetooth to a remote computer. The computer holds a large database with information from official sources. The data processed by an application written in Python 3 and with the help of XlsxWriter creating Excel spreadsheets with charts.
 
 These are Images of the Wiring:
-![Animated](Project_anim.jpg =250x)
-![Schematic](Project_schem.jpg)
+
+<img src="Project_anim.jpg" alt="Animated" width="600"/>
+<img src="Project_schem.jpg" alt="Schematic" width="600"/>
 
 # Bonus
 

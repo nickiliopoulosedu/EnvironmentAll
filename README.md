@@ -19,7 +19,8 @@ After each measurement, the data are sent via Bluetooth to a remote computer. Th
 # Bonus
 
 ### Links
-- [3D Preview][3Dprev]
+- [3D Robot Preview 1.0 (newest version)][3Dprev]
+- [3D Robot Preview (older versions)]
 
 ### Communication
   | Name | Team Position | Email |

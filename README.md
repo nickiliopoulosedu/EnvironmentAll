@@ -45,6 +45,7 @@ For more info on how to use the program visit the [Bonus Section](#Bonus)
 ### Links
 - [3D Robot Preview 1.1 (newest version)][3DprevLatest]
 - [3D Robot Preview (older versions)][3DprevOlder]
+- [Data Receive Setup Tutorial][setupTutorial]
 
 ### Communication
   | Name | Team Position | Email |
@@ -60,3 +61,4 @@ For more info on how to use the program visit the [Bonus Section](#Bonus)
 [pyDownload]: <https://www.python.org/downloads>
 [Data_Com_File]: <https://github.com/nickiliopoulosedu/EnvironmentAll/blob/master/Data_Com.py>
 [README_GR]: <https://github.com/nickiliopoulosedu/EnvironmentAll/blob/master/README_GR.md>
+[setupTutorial]: <https://www.youtube.com/watch?v=-dadtUuFnBA>

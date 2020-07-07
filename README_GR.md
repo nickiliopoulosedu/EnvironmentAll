@@ -1,44 +1,45 @@
 Read in [EN][README_GR]
 # Environment-ALL
 
-We are Environment-All students in the 1st grade of Saint Demetrios High School, Christina, Vassilis, Elias, Nikolas and our teacher Katerina Asimakopoulou. We decided to participate because the combination of open technologies and Climate Change (as a thematic) not only interests us, but causes us to help solve the problem as much as we can.
+Είμαστε οι EnvironmentAll, μαθητές στο 1ο Γυμνάσιο Αγίου Δημητρίου, Χριστίνα, Βασίλης, Ηλίας, Νικόλας και η καθηγήτριά μας Κατερίνα Asimakopoulou.  
 
-# Our Suggestion 
+# Η πρότασή μας 
 After robot means work, we wondered if there is a robot to process the results of the climate crisis and presents them in a simpler, more concentrated form by graph so their use in the improvement of agricultural production / harvest or green growth in an area, urban or not. After a series of meetings between members of our team, we came to the general functions of our robot. In the beginning we use already existing open source programs and some created by us. 
 
-The RoboKlimUs is capable of taking measurements through specific sensors available 
-  - For the atmosphere:
-    - Temperature
-    - Humidity
-    - Quantity of carbon dioxide 
+Αφού robot σημαίνει εργασία, αναρωτηθήκαμε αν υπάρχει ρομπότ που να επεξεργάζεται τα αποτελέσματα της Κλιματικής Κρίσης και να τα παρουσιάζει σε μία απλούστερη, συμπυκνωμένη μορφή μέσω γραφημάτων με αποτέλεσμα την χρήση τους στην βελτίωση της γεωργικής παραγωγής/συγκομιδής ή και αύξησης πρασίνου σε μία περιοχή, αστική και μη. Μετά από μία σειρά συνεδριάσεων μεταξύ των μελών της ομάδας μας, καταλήξαμε στις γενικές λειτουργίες του ρομπότ μας. Εν αρχή χρησιμοποιούμε ήδη υπάρχοντα προγράμματα ανοιχτού κώδικα και ορισμένα δημιουργημένα από εμάς.
+
+Το RoboΚλίμUs είναι ικανό να παίρνει μετρήσεις μέσω ειδικών αισθητήρων που διαθέτει 
+  - Για την ατμόσφαιρα:
+    - Θερμοκρασίας, , 
+    - Υγρασίας
+    - Ποσότητας διοξειδίου του άνθρακα
   - For soil:
     - pH
-    - Temperature
+    - Θερμοκρασίας
 
-After each measurement, the data are sent via Bluetooth to a remote computer. The computer holds a large database with information from official sources. The data processed by an application written in Python 3 and with the help of XlsxWriter creating Excel spreadsheets with charts.
+ Μετά από κάθε μέτρηση,τα δεδομένα αποστέλνονται μέσω Bluetooth σε ένα απομακρυσμένο υπολογιστή – κέντρο ελέγχου. Ο υπολογιστής κατέχει μία μεγάλη βάση δεδομένων με στοιχεία από επίσημες πηγές. Τα δεδομένα επεξεργάζονται από μία εφαρμογή γραμμένη σε Python 3 και με την βοήθεια του XlsxWriter δημιουργεί φύλλα του Excel με γραφήματα:
 
-These are Images of the Wiring:
+Παρακάτω είναι εικόνες της συνδεσμολογίας:
 
 <img src="/Images/Project_anim.jpg" alt="Animated" width="600"/>
 <img src="/Images/Project_schem.jpg" alt="Schematic" width="600"/>
 
-# Code
+# Κώδικας
 
-For this project we are using Python 3, you can download and the latest version [here][pyDownload]. Be sure to click "add Python to PATH" while installing.
+Για αυτό το project χρησιμοποιούμε Python 3, μπορείτε να κατεβάσετε την τελευτάια έκδοση [εδώ][pyDownload]. Σιγουρευτείτε ότι έχετε πατήσει το "add Python to PATH" κουμπί κατά την εγκατάσταση
 
-After downloading and install it is time to install the required libraries. So navigate to EnvironmentAll folder, click the address bar and delete everything, write "cmd"
-and a new black window will appear.
+Αφού έχετε κατεβάσει και εγκαταστήσει την Python είναι ώρα να κατεβάσουμε την απαραίτητε βιβλιοθήκες. Πλοηγηθείτε στον φάκελο EnvironmentAll, πατήστε την μπάρα διεύθυνσης και σβήστε τα πάντα, τώρα γράψτε "cmd". Ένα νέο παράθυρο θα ανοίξει.
 
-In that window type:
+Σε αυτό το παράθυρο γράψτε:
 ```
 pip install -r requirements.txt
 ```
 
-This should install all required libraries for this project. If an error appears ask for help online.
+Αυτό πρέπει να εγγαταστήσει αυτόματα όλες τις απαραίτητες βιβλιοθήκες.
 
-Now just click [Data_Com.py][Data_Com_File]
+Τώρα απλά τρέξτε το [Data_Com.py][Data_Com_File]
 
-For more info on how to use the program visit the [Bonus Section](#Bonus)
+ Για παραπάνω πληροφορίες στο πως να χρησιμοποιείτε το πρόγραμα επισκευφθείτε την [Bonus Υποπαράγραφο](#Bonus)
 
 # Bonus
 
@@ -46,14 +47,14 @@ For more info on how to use the program visit the [Bonus Section](#Bonus)
 - [3D Robot Preview 1.1 (newest version)][3DprevLatest]
 - [3D Robot Preview (older versions)][3DprevOlder]
 
-### Communication
-  | Name | Team Position | Email |
+### Επικοινωνία
+  | Όνομα | Θέση στην ομάδα | Email |
   | ---- | ------------- | ----- |
-  | Asimakopoulou Aikaterinh | Team Leader | kasimako@dad.gr |
-  | Iliopoulos Nikolaos | Team Member | nilioprobots@gmail.com |
-  | Kalliakmanis Elias | Team Member | hliaskalliakmanis@gmail.com |
-  | Keramaris Vasilios | Team Member | - |
-  | Tournari Christina | Team Member | xristinatournari@gmail.com |
+  | Ασιμακοπούλου Αικατερίνη | Αρχηγός | kasimako@dad.gr |
+  | Ηλιόπουλος Νικόλαος | Μέλος | nilioprobots@gmail.com |
+  | Καλιακμάνης Ηλίας | Μέλος | hliaskalliakmanis@gmail.com |
+  | Κεραμάρης Βασίλειος | Μέλος | - |
+  | Τουρνάρη Χριστίνα | Μέλος | xristinatournari@gmail.com |
 
 [3DprevLatest]: <https://www.youtube.com/watch?v=U1EAlejeVzY>
 [3DprevOlder]: <https://www.youtube.com/playlist?list=PL0-nYuvdRR38VOx6JxywApDNGzup6OFcI>

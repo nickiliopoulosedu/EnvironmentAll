@@ -1,3 +1,4 @@
+Read in [:greece:][README_GR]
 # Environment-ALL
 
 We are Environment-All students in the 1st grade of Saint Demetrios High School, Christina, Vassilis, Elias, Nikolas and our teacher Katerina Asimakopoulou. We decided to participate because the combination of open technologies and Climate Change (as a thematic) not only interests us, but causes us to help solve the problem as much as we can.
@@ -58,3 +59,4 @@ For more info on how to use the program visit the [Bonus Section](#Bonus)
 [3DprevOlder]: <https://www.youtube.com/playlist?list=PL0-nYuvdRR38VOx6JxywApDNGzup6OFcI>
 [pyDownload]: <https://www.python.org/downloads>
 [Data_Com_File]: <https://github.com/nickiliopoulosedu/EnvironmentAll/blob/master/Data_Com.py>
+[README_GR]: <https://github.com/nickiliopoulosedu/EnvironmentAll/blob/master/README_GR.md>

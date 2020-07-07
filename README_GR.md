@@ -4,7 +4,6 @@ Read in [EN][README_GR]
 Είμαστε οι EnvironmentAll, μαθητές στο 1ο Γυμνάσιο Αγίου Δημητρίου, Χριστίνα, Βασίλης, Ηλίας, Νικόλας και η καθηγήτριά μας Κατερίνα Asimakopoulou.  
 
 # Η πρότασή μας 
-After robot means work, we wondered if there is a robot to process the results of the climate crisis and presents them in a simpler, more concentrated form by graph so their use in the improvement of agricultural production / harvest or green growth in an area, urban or not. After a series of meetings between members of our team, we came to the general functions of our robot. In the beginning we use already existing open source programs and some created by us. 
 
 Αφού robot σημαίνει εργασία, αναρωτηθήκαμε αν υπάρχει ρομπότ που να επεξεργάζεται τα αποτελέσματα της Κλιματικής Κρίσης και να τα παρουσιάζει σε μία απλούστερη, συμπυκνωμένη μορφή μέσω γραφημάτων με αποτέλεσμα την χρήση τους στην βελτίωση της γεωργικής παραγωγής/συγκομιδής ή και αύξησης πρασίνου σε μία περιοχή, αστική και μη. Μετά από μία σειρά συνεδριάσεων μεταξύ των μελών της ομάδας μας, καταλήξαμε στις γενικές λειτουργίες του ρομπότ μας. Εν αρχή χρησιμοποιούμε ήδη υπάρχοντα προγράμματα ανοιχτού κώδικα και ορισμένα δημιουργημένα από εμάς.
 
@@ -39,7 +38,7 @@ pip install -r requirements.txt
 
 Τώρα απλά τρέξτε το [Data_Com.py][Data_Com_File]
 
- Για παραπάνω πληροφορίες στο πως να χρησιμοποιείτε το πρόγραμα επισκευφθείτε την [Bonus Υποπαράγραφο](#Bonus)
+Για επιπλέον πληροφορίες στο πως να χρησιμοποιείτε το πρόγραμα επισκευφθείτε την [Bonus Υποπαράγραφο](#Bonus)
 
 # Bonus
 

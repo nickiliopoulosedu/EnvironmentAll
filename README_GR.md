@@ -43,8 +43,9 @@ pip install -r requirements.txt
 # Bonus
 
 ### Links
-- [3D Robot Preview 1.1 (newest version)][3DprevLatest]
-- [3D Robot Preview (older versions)][3DprevOlder]
+- [3D Robot Preview 1.1 (Νεότερη έκδοση)][3DprevLatest]
+- [3D Robot Preview (Παλαιότερες εκδόσεις)][3DprevOlder]
+- [Tutorial - Λήψη και επεξεργασία δεδομένων Arduino][setupTutorial]
 
 ### Επικοινωνία
   | Όνομα | Θέση στην ομάδα | Email |
@@ -60,3 +61,4 @@ pip install -r requirements.txt
 [pyDownload]: <https://www.python.org/downloads>
 [Data_Com_File]: <https://github.com/nickiliopoulosedu/EnvironmentAll/blob/master/Data_Com.py>
 [README_GR]: <https://github.com/nickiliopoulosedu/EnvironmentAll/blob/master/README.md>
+[setupTutorial]: <https://www.youtube.com/watch?v=-dadtUuFnBA>

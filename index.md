@@ -1,7 +1,9 @@
-<head>
-  <meta name="google-site-verification" content="4Nss2Jyod7eKwvOmVIfBiC3p5OKB2vhIGtTTfByRn6w" />
-</head>
-# Environment-ALL
+<html>
+  <head>
+    <meta name="google-site-verification" content="4Nss2Jyod7eKwvOmVIfBiC3p5OKB2vhIGtTTfByRn6w" />
+  </head>
+</html>
+# Environment-AL
 
 We are Environment-All students in the 1st grade of Saint Demetrios High School, Christina, Vassilis, Elias, Nikolas and our teacher Katerina Asimakopoulou. We decided to participate because the combination of open technologies and Climate Change (as a thematic) not only interests us, but causes us to help solve the problem as much as we can.
 

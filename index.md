@@ -47,6 +47,7 @@ For more info on how to use the program and how to run a demo visit the [Bonus S
 - [Data Receive Setup Tutorial][setupTutorial]
 
 ### Communication
+
 | Name | Team Position | Email |
 | ------------------------ | ----------- | --------------- |
 | Asimakopoulou Aikaterinh | Team Leader | kasimako@dad.gr |

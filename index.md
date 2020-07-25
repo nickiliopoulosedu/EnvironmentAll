@@ -48,13 +48,13 @@ For more info on how to use the program and how to run a demo visit the [Bonus S
 - [Data Receive Setup Tutorial][setupTutorial]
 
 ### Communication
-  | Name | Team Position | Email |
-  | ---- | ------------- | ----- |
-  | Asimakopoulou Aikaterinh | Team Leader | kasimako@dad.gr |
-  | Iliopoulos Nikolaos | Team Member | nilioprobots@gmail.com |
-  | Kalliakmanis Elias | Team Member | hliaskalliakmanis@gmail.com |
-  | Keramaris Vasilios | Team Member | - |
-  | Tournari Christina | Team Member | xristinatournari@gmail.com |
+| Name | Team Position | Email |
+| ---- | ------------- | ----- |
+| Asimakopoulou Aikaterinh | Team Leader | kasimako@dad.gr |
+| Iliopoulos Nikolaos | Team Member | nilioprobots@gmail.com |
+| Kalliakmanis Elias | Team Member | hliaskalliakmanis@gmail.com |
+| Keramaris Vasilios | Team Member | - |
+| Tournari Christina | Team Member | xristinatournari@gmail.com |
 
 [3DprevLatest]: <https://www.youtube.com/watch?v=U1EAlejeVzY>
 [3DprevOlder]: <https://www.youtube.com/playlist?list=PL0-nYuvdRR38VOx6JxywApDNGzup6OFcI>

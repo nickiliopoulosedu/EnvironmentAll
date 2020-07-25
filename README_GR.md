@@ -48,6 +48,7 @@ pip install -r requirements.txt
 - [Tutorial - Λήψη και επεξεργασία δεδομένων Arduino][setupTutorial]
 
 ### Επικοινωνία
+
   | Όνομα | Θέση στην ομάδα | Email |
   | ---- | ------------- | ----- |
   | Ασιμακοπούλου Αικατερίνη | Αρχηγός | kasimako@dad.gr |

@@ -1,0 +1,14 @@
+theme: jekyll-theme-slate
+title: EnvironmentAll
+description: Climate Change Visualized Outside Your Home
+show_downloads: true
+markdown: kramdown
+
+footer-links:
+  email: nilioprobots@gmail.com
+  facebook: https://www.facebook.com/nikolaosiliopoulosrobotics
+  github: https://github.com/nickiliopoulosedu/
+  instagram: https://www.instagram.com/_nick_iliopoulos_/
+  stackoverflow: https://stackoverflow.com/users/13347441/nikolaos-iliopoulos
+  youtube: https://www.youtube.com/channel/UCIqK_Ubw_gnUNMHHzz3yyZg
+  google_analytics: UA-141106435-1

@@ -38,7 +38,7 @@ This should install all required libraries for this project. If an error appears
 
 Now just click [Data_Com.py][Data_Com_File]
 
-For more info on how to use the program and how to run a demo visit the [Bonus Section](#Bonus)
+For more information on how to use the program and how to run a demo visit the [Bonus Section](#Bonus)
 
 # Bonus
 

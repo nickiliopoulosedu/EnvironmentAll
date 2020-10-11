@@ -54,7 +54,7 @@ pip install -r requirements.txt
   | Ασιμακοπούλου Αικατερίνη | Αρχηγός | kasimako@dad.gr |
   | Ηλιόπουλος Νικόλαος | Μέλος | nilioprobots@gmail.com |
   | Καλιακμάνης Ηλίας | Μέλος | hliaskalliakmanis@gmail.com |
-  | Κεραμάρης Βασίλειος | Μέλος | - |
+  | Κεραμάρης Βασίλειος | Μέλος | gym.1973.2017@gmail.com |
   | Τουρνάρη Χριστίνα | Μέλος | xristinatournari@gmail.com |
 
 [3DprevLatest]: <https://www.youtube.com/watch?v=U1EAlejeVzY>

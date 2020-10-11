@@ -51,10 +51,10 @@ For more information on how to use the program and how to run a demo visit the [
 
   | Name | Team Position | Email |
   | ---- | ------------- | ----- |
-  | Asimakopoulou Aikaterinh | Team Leader | kasimako@dad.gr |
+  | Asimakopoulou Aikaterini | Team Leader | kasimako@dad.gr |
   | Iliopoulos Nikolaos | Team Member | nilioprobots@gmail.com |
   | Kalliakmanis Elias | Team Member | hliaskalliakmanis@gmail.com |
-  | Keramaris Vasilios | Team Member | - |
+  | Keramaris Vasilios | Team Member | gym1973.2017@gmail.com |
   | Tournari Christina | Team Member | xristinatournari@gmail.com |
 
 [3DprevLatest]: <https://www.youtube.com/watch?v=U1EAlejeVzY>

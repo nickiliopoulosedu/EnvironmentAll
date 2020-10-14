@@ -46,7 +46,7 @@ For more information on how to use the program and how to run a demo visit the [
 # Bonus
 
 ### Links
-- [Demo Video (Description, History, Our Team and more)[Demo]
+- [Demo Video (Description, History, Our Team and more)][Demo]
 - [3D Robot Preview 1.1 (newest version)][3DprevLatest]
 - [3D Robot Preview (older versions)][3DprevOlder]
 - [Data Receive Setup Tutorial][setupTutorial]
@@ -69,4 +69,4 @@ For more information on how to use the program and how to run a demo visit the [
 [README_GR]: <https://github.com/nickiliopoulosedu/EnvironmentAll/blob/master/README_GR.md>
 [setupTutorial]: <https://www.youtube.com/watch?v=-dadtUuFnBA>
 [Timelapse]: <https://youtu.be/5FTF4BOpBkA>
-[Demo}: <>
+[Demo]: <>

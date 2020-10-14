@@ -56,7 +56,7 @@ pip install -r requirements.txt
 
   | Όνομα | Θέση στην ομάδα | Email |
   | ---- | ------------- | ----- |
-  | Ασιμακοπούλου Αικατερίνη | Αρχηγός | kasimako@dad.gr |
+  | Ασημακοπούλου Αικατερίνη | Αρχηγός | kasimako@dad.gr |
   | Ηλιόπουλος Νικόλαος | Μέλος | nilioprobots@gmail.com |
   | Καλιακμάνης Ηλίας | Μέλος | hliaskalliakmanis@gmail.com |
   | Κεραμάρης Βασίλειος | Μέλος | gym.1973.2017@gmail.com |

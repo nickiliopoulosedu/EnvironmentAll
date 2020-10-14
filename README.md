@@ -1,4 +1,7 @@
 Read in [GR][README_GR]
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
 # Environment-ALL
 
 We are Environment-All students in the 1st grade of Saint Demetrios High School, Christina, Vassilis, Elias, Nikolas and our teacher Katerina Asimakopoulou. We decided to participate because the combination of open technologies and Climate Change (as a thematic) not only interests us, but causes us to help solve the problem as much as we can.
@@ -43,9 +46,11 @@ For more information on how to use the program and how to run a demo visit the [
 # Bonus
 
 ### Links
+- [Demo Video (Description, History, Our Team and more)[Demo]
 - [3D Robot Preview 1.1 (newest version)][3DprevLatest]
 - [3D Robot Preview (older versions)][3DprevOlder]
 - [Data Receive Setup Tutorial][setupTutorial]
+- [Timelaps Construction of the Robot][Timelapse]
 
 ### Communication
 
@@ -63,3 +68,5 @@ For more information on how to use the program and how to run a demo visit the [
 [Data_Com_File]: <https://github.com/nickiliopoulosedu/EnvironmentAll/blob/master/Data_Com.py>
 [README_GR]: <https://github.com/nickiliopoulosedu/EnvironmentAll/blob/master/README_GR.md>
 [setupTutorial]: <https://www.youtube.com/watch?v=-dadtUuFnBA>
+[Timelapse]: <https://youtu.be/5FTF4BOpBkA>
+[Demo}: <>

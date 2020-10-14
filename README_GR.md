@@ -46,7 +46,7 @@ pip install -r requirements.txt
 # Bonus
 
 ### Links
-- [Demo Βίντεο (Περιγραφή, Ιστορία, η Ομάδα μας και Άλλα)]
+- [Demo Βίντεο (Περιγραφή, Ιστορία, η Ομάδα μας και Άλλα)][Demo]
 - [3D Robot Preview 1.1 (Νεότερη έκδοση)][3DprevLatest]
 - [3D Robot Preview (Παλαιότερες εκδόσεις)][3DprevOlder]
 - [Tutorial - Λήψη και επεξεργασία δεδομένων Arduino][setupTutorial]

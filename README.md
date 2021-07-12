@@ -22,8 +22,8 @@ After each measurement, the data are sent via Bluetooth to a remote computer. Th
 
 These are Images of the Wiring:
 
-![Animation](/Images/Project_anim.png)
-![Schematic](/Images/Project_schem.png)
+![Animation](/Images/Project_anim.jpg)
+![Schematic](/Images/Project_schem.jpg)
 
 # Code
 
